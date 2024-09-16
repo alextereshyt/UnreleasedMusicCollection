@@ -5,10 +5,10 @@ This means you can use my music in your projects, as long as you credit me (LaLe
 
 **Here's a breakdown of the music by genre:**
 
-├───ambient
-├───techno
-├───chiptune
-└───synthwave
+├───ambient<br>
+├───techno<br>
+├───chiptune<br>
+└───synthwave<br>
 
 **How to Use:**
 
