@@ -14,7 +14,11 @@ This means you can use my music in your projects, as long as you credit me (LaLe
 
 * Feel free to download and use any track in your projects.
 * Please credit me (LaLeX) in your project description or credits.
-* Do not use this music for commercial purposes. 
+* Do not use this music for commercial purposes.
+
+**Specifications**
+* Mastered in ~ 14 LUFS
+* 192 kbs wav files
 
 **For licensing inquiries or custom music composition:**
 
